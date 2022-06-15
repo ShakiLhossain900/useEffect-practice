@@ -1,5 +1,9 @@
+import UseEffect from "./useEffectAnisul/UseEffect";
 function App() {
-  return <div></div>;
+  return <div>
+    <UseEffect/>
+  </div>;
 }
 
 export default App;
+ 
